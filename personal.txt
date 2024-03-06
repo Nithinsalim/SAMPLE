@@ -3,3 +3,6 @@ Address
 postcode
 phone number1
 phone number2
+4
+5
+6
