@@ -2,7 +2,10 @@ Name
 Address
 postcode
 phone number1
-phone number2
+1
+2
+3
+<<<<<<< .mine
 12
 3
 4
@@ -16,4 +19,20 @@ phone number2
 1
 2
 3
+>>>>>>> .theirs
+=======
+1
+2
+3
+
+
+
+
+
+
+
+
+
+
+
 >>>>>>> .theirs
