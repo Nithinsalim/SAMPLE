@@ -3,6 +3,17 @@ Address
 postcode
 phone number1
 phone number2
+12
+3
 4
 5
 6
+<<<<<<< .mine
+4
+5
+6
+=======
+1
+2
+3
+>>>>>>> .theirs
